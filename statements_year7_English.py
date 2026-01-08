@@ -158,7 +158,8 @@ writing_target_bank = {
 }
 
 closer_bank = [
-    "Overall, progress was evident over the course of the term",
-    "With continued support, further progress is expected next term",
-    "Confidence improved gradually as the term progressed"
-]# Write your code here :-)
+    "Overall, progress was evident over the course of the term.",
+    "With continued support, further progress is expected next term.",
+    "Confidence improved gradually as the term progressed."
+]
+
