@@ -1,3 +1,58 @@
+# statements_year7_science.py
+# Year 7 Science report comment bank - UK Gov standards
+
+opening_phrases = [
+    "This term,",
+    "Over the course of this term,",
+    "During this term,",
+    "Throughout this term,",
+    "In this term,"
+]
+
+attitude_bank = {
+    90: "approached lessons with great curiosity and enthusiasm, showing interest in exploring new ideas",
+    85: "demonstrated a highly positive attitude and was eager to participate in lessons",
+    80: "showed a positive approach to learning and engaged well in class activities",
+    75: "participated consistently and applied effort to understanding scientific concepts",
+    70: "was generally focused and responded well to guidance during lessons",
+    65: "maintained a steady approach and benefited from encouragement",
+    60: "required occasional support to stay engaged in lessons",
+    55: "needed regular guidance to remain confident and participate effectively",
+    40: "found it challenging to stay focused and needed support",
+    0: "needed significant support to engage with learning"
+}
+
+science_bank = {
+    90: "demonstrated secure understanding of scientific concepts and could explain ideas clearly",
+    85: "showed good understanding and could provide explanations with reasoning",
+    80: "understood key concepts and applied knowledge accurately in activities",
+    75: "showed basic understanding and could explain ideas with some support",
+    70: "understood main ideas with guidance and could describe simple concepts",
+    65: "showed partial understanding and benefited from support in tasks",
+    60: "demonstrated limited understanding and needed support to complete tasks",
+    55: "showed emerging understanding and required regular guidance",
+    40: "struggled to understand topics without support",
+    0: "could not engage effectively with scientific concepts"
+}
+
+target_bank = {
+    90: "extend learning by exploring more complex scientific ideas and explaining outcomes",
+    85: "focus on explaining results and reasoning clearly and confidently",
+    80: "practice applying scientific knowledge to new examples and experiments",
+    75: "develop skills in observing and describing results accurately",
+    70: "strengthen understanding by explaining ideas with support",
+    65: "practice completing tasks with guidance and applying key concepts",
+    60: "focus on following instructions and understanding concepts clearly",
+    55: "engage in tasks step by step with support to improve understanding",
+    40: "identify main ideas with guidance and practise explanations",
+    0: "require close support to participate in scientific tasks"
+}
+
+closer_bank = [
+    "Overall, progress in science was clear and steady throughout the term",
+    "With continued support, further progress is expected next term",
+    "Confidence in applying scientific knowledge improved over the course of the term"
+]
 # statements_year8_science.py
 # Science statements for Year 8 following UK Government standards
 # This file contains ONLY text banks (no logic)
